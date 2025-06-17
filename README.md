@@ -1,26 +1,16 @@
 ## 🧠 Cognifyz Technologies Internship Tasks
 
-📱 Android Development Internship | Task-Wise Summary (Task 1 to Task 8)
-
-Welcome to the submission repository for the **Android Developer Internship** at **Cognifyz Technologies**.  
-This repository contains all **8 Android development tasks** completed during the internship, organized by task number.  
-Each task focuses on practical implementation using **Java, Kotlin**, and **Android Studio** to build real-world Android apps and components.
-
----
+Internship Tasks Provided by the Cognifyz Technologies, with the Source Code 
 
 ## 📂 Task Overview
 
 ### 📌 **Task 1: Hello World App**
-✅ Display a simple "Hello World" message using Jetpack Compose  
-🛠️ Technologies: Kotlin, Jetpack Compose  
-🎯 Focus: Project setup and basic UI rendering
+In this, I created My First App. In which i display the "Hello World" on the Screen with White Background.
 
 ---
 
 ### 📌 **Task 2: Button App**
-✅ Create a button that updates text when clicked  
-🛠️ Technologies: Kotlin, Jetpack Compose  
-🎯 Focus: UI interactivity and event handling
+In this, A button with name "Click Me" is Placed and when user click on it. Then, It shows a Toast message.
 
 ---
 
