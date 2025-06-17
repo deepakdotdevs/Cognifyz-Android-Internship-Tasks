@@ -73,12 +73,3 @@ aimed at building strong foundational and practical skills in **Android mobile a
 
 > 🧠 **Motto**: *Where Data Meets Intelligence*
 
----
-
-## 📬 Contact
-
-For inquiries or demo:
-
-📧 **Email**: contact@cognifyz.com  
-🌐 **Website**: [https://cognifyz.com](https://cognifyz.com)
-
